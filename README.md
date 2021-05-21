@@ -1,6 +1,6 @@
 ### Hi there 👋, Pushpraj Singh
 #### Data Structure & Web Developer
-![Data Structure & Web Developer](www.linkedin.com/in/thepushprajsingh)
+![Data Structure & Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGad7VDWEFo8w/profile-displaybackgroundimage-shrink_350_1400/0/1602505063576?e=1626912000&v=beta&t=GVn1_VlxJxTw3mdC3PGCeRC6DicTL_cgQGARLmw4pWw)
 
 I am Pushpraj singh & I do programing . I really enjoy learning new languages & I wanna be a software Engineer 
 
@@ -20,5 +20,4 @@ Skills: C / C++ / Python / HTLM / CSS / JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pushprajsingh1&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pushprajsingh1)  
-
 
