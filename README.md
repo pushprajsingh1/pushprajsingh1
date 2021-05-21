@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pushprajsingh1
+- 👀 I’m interested in ...Programing
+- 🌱 I’m currently learning ...Web Devlopment 
+- 💞️ I’m looking to collaborate with ...IT Companies
+- 📫 How to reach me ...(www.linkedin.com/in/thepushprajsingh)
