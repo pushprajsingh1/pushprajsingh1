@@ -1,4 +1,4 @@
-![Data Structure & Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGad7VDWEFo8w/profile-displaybackgroundimage-shrink_350_1400/0/1602505063576?e=1626912000&v=beta&t=GVn1_VlxJxTw3mdC3PGCeRC6DicTL_cgQGARLmw4pWw)
+<!-- ![Data Structure & Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGad7VDWEFo8w/profile-displaybackgroundimage-shrink_350_1400/0/1602505063576?e=1626912000&v=beta&t=GVn1_VlxJxTw3mdC3PGCeRC6DicTL_cgQGARLmw4pWw) -->
 
 ### Hi there 👋, Pushpraj Singh
 
